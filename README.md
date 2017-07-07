@@ -2,7 +2,7 @@
 
 ## 安卓开发基础 练习
 
-![APP示意图](https://github.com/zouyang1230/Android_QuizApp/raw/master/images/QuizApp.jpg)
+![APP示意图](https://github.com/zouyang1230/Android_QuizApp/raw/master/images/Quiz.jpg)
 
 ### Tips：
 

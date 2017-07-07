@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">问答测试</string>
+    <string name="question_text">邹阳是中国人还是印度人？</string>
+    <string name="true_button">真？</string>
+    <string name="false_button">假？</string>
+    <string name="correct_toast">tips:正确!</string>
+    <string name="incorrect_toast">tips:错误!</string>
 </resources>

@@ -2,6 +2,8 @@
 
 ## 安卓开发基础 练习
 
+![APP示意图](https://github.com/zouyang1230/Android_QuizApp/raw/master/images/QuizApp.jpg)
+
 ### Tips：
 
 1、Android SDK内置了多种组件，通过配置各种组件可获得所需的用户界面及行为。每一个组

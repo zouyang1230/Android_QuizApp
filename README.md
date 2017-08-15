@@ -1,10 +1,10 @@
 # Android_QuizApp
 
-## 安卓开发基础 练习
+## 问答系统demo
 
-![APP示意图](https://github.com/zouyang1230/Android_QuizApp/raw/master/images/Quiz.jpg)
 
-### Tips：
+
+### 一些个人记录：
 
 1、Android SDK内置了多种组件，通过配置各种组件可获得所需的用户界面及行为。每一个组
 件都是View类或其子类（如TextView或Button）的一个具体实例。
@@ -46,3 +46,4 @@ public static Toast makeText(Context context, int resId, int duration)
 * 该方法的Context参数通常是Activity的一个实例（Activity本身就是Context的子类）。
 第二个参数是toast要显示字符串消息的资源ID。 Toast类必须借助Context才能找到并使用字符串的资源ID。第三个参数通常是两个Toast常量中的一个，用来指定toast消息显示的持续时间。
 * 创建toast后，可调用Toast.show()方法在屏幕上显示toast消息。
+

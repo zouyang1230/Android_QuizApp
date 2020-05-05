@@ -48,4 +48,4 @@ public static Toast makeText(Context context, int resId, int duration)
 * 创建toast后，可调用Toast.show()方法在屏幕上显示toast消息。
 
 
-### 省略一大坨，有需要完整笔记的童鞋可以私信我 QQ：7012490   备注 github笔记
+### 省略一大坨，有需要完整笔记的童鞋可以私信我邮箱
